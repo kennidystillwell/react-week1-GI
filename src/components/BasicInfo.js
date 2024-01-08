@@ -1,6 +1,7 @@
 //importing react library
 import React from 'react';
 
+
 //defined functional component 'BasicInfo'
 //takes in person prop
 const BasicInfo = ({ person }) => {
